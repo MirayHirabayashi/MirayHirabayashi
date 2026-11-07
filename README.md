@@ -1,16 +1,18 @@
-## Hi there 👋
+### Miray Hirabayashi
 
-<!--
-**MirayHirabayashi/MirayHirabayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering @ **Iowa State** · Cybersecurity Minor
 
-Here are some ideas to get you started:
+### 🚀 Projects I've Shipped
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🎟️ [Iowa After Class](https://iowaafterclass.com)** — Discover what's happening around Iowa.  
+*Next.js · TypeScript · Ticketmaster API*
+
+**📈 [NextClose](https://github.com/MirayHirabayashi/nextclose)** — Stock movement predictor using 35+ years of market data.  
+*Python · Random Forest · FastAPI · Next.js*
+
+**🌍 [GlobeBase](https://github.com/MirayHirabayashi/globebase)** — Interactive 3D travel tracker.  
+*Next.js · Three.js · PostgreSQL*
+
+---
+
+[LinkedIn](https://linkedin.com/in/miray-hirabayashi) · [Portfolio](https://miray.dev) · [Email](mailto:mirayhirabayashi@gmail.com)
